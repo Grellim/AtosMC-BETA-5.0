@@ -1,0 +1,72 @@
+groups:
+  Visitante:
+    options:
+      default: true
+      rank: '1'
+      prefix: '&8'
+    permissions:
+    - modifyworld.*
+    - multiverse.core.tp.self
+    - ultracosmetics.openmenu
+    - ultracosmetics.command.clear
+    - ultracosmetics.command.menu
+    - authme.player.*
+    - essentials.clearinventory
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warps.*
+    - essentials.warps.WarpVip
+    - ancientgates.use.*
+    - -ancientgates.use.WarpVipJoin
+    - -ancientgates.use.WarpVipSpawn
+    - -ancientgates.use.WarpVipPortals
+    - extrakits.kit.Inicial
+    - crazyauctions.access
+    - ahome.home.usar
+    - ahome.limite.membro
+    worlds:
+      Survival:
+        permissions:
+        - -modifyworld.*
+      Nether:
+        permissions:
+        - -modifyworld.*
+      TheEnd:
+        permissions:
+        - -modifyworld.*
+  Membro:
+    options:
+      rank: '2'
+      prefix: '&f'
+    permissions:
+    - modifyworld.*
+    - fastlogin.bukkit.command.premium
+    - fastlogin.bukkit.command.cracked
+    - ChestShop.shop.buy
+    - ChestShop.shop.sell
+    - company.use
+    - -company.shop.create
+    - -company.bank
+    - essentials.getpos
+    - crazyauctions.veiw
+    - crazyauctions.sell.3
+    - crazyauctions.bid.1
+    worlds:
+      TheEnd:
+        permissions:
+        - -modifyworld.*
+    inheritance:
+    - Visitante
+  Dono:
+    options:
+      rank: '10'
+      prefix: '&9'
+    permissions:
+    - *
+    inheritance:
+    - *
+schema-version: 1

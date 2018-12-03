@@ -1,0 +1,65 @@
+[12-03 05:41:49]: [INFO] Created column 'regdate' and set the current timestamp, 1543815709478, to all 0 rows
+[12-03 05:41:49]: [INFO] SQLite Setup finished
+[12-03 05:41:49]: [INFO] Hooked into PermissionsEx!
+[12-03 05:41:50]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-03 05:41:50]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-03 05:41:50]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-03 05:41:50]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-03 05:41:59]: [FINE] _Gre registered 187.19.11.97
+[12-03 05:41:59]: [FINE] _Gre logged in!
+[12-03 05:43:03]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-03 05:43:08]: [INFO] SQLite Setup finished
+[12-03 05:43:08]: [INFO] Hooked into PermissionsEx!
+[12-03 05:43:08]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-03 05:43:08]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-03 05:43:08]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-03 05:43:08]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-03 05:43:08]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-03 05:47:56]: [FINE] _Gre logged in!
+[12-03 05:49:18]: [INFO] SQLite Setup finished
+[12-03 05:49:18]: [INFO] Not hooking into PermissionsEx because it's disabled!
+[12-03 05:49:18]: [INFO] Hooked into Vault!
+[12-03 05:49:18]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-03 05:49:18]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-03 05:49:19]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-03 05:49:19]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-03 05:49:19]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-03 05:49:26]: [FINE] _Gre logged in!
+[12-03 05:49:57]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-03 05:51:06]: [INFO] SQLite Setup finished
+[12-03 05:51:06]: [INFO] Hooked into PermissionsEx!
+[12-03 05:51:06]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-03 05:51:07]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-03 05:51:08]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-03 05:51:08]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-03 05:51:08]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-03 05:51:57]: [FINE] _Gre logged in!
+[12-03 06:12:20]: [FINE] _Gre logged in!
+[12-03 14:13:28]: [FINE] _Gre logged in!
+[12-03 14:14:57]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-03 14:15:01]: [INFO] SQLite Setup finished
+[12-03 14:15:02]: [INFO] Hooked into PermissionsEx!
+[12-03 14:15:03]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-03 14:15:03]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-03 14:15:03]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-03 14:15:03]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-03 14:15:03]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-03 14:15:03]: [FINE] _Gre logged in!
+[12-03 14:17:06]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-03 14:18:07]: [INFO] SQLite Setup finished
+[12-03 14:18:07]: [INFO] Not hooking into PermissionsEx because it's disabled!
+[12-03 14:18:07]: [INFO] Hooked into Vault!
+[12-03 14:18:08]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-03 14:18:08]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-03 14:18:10]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-03 14:18:10]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-03 14:18:10]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-03 14:19:36]: [FINE] _Gre logged in!
+[12-03 14:42:03]: [INFO] SQLite Setup finished
+[12-03 14:42:03]: [INFO] Hooked into LuckPerms!
+[12-03 14:42:03]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-03 14:42:04]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-03 14:42:04]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-03 14:42:04]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-03 14:42:04]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-03 14:43:51]: [FINE] _Gre logged in!

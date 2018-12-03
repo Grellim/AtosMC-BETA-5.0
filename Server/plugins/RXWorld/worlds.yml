@@ -1,0 +1,51 @@
+world:
+  type: NORMAL
+  environment: NORMAL
+  seed: -622622700250022644
+  pvp: true
+  block-place: true
+  block-break: true
+  spawn-animals: true
+  spawn-monsters: true
+  difficulty: NORMAL
+  spawn-world:
+    x: 176
+    y: 72
+    z: -96
+    pitch: 0.0
+    yaw: 0.0
+    world: world
+world_nether:
+  type: NORMAL
+  environment: NORMAL
+  seed: 3877595497746402823
+  pvp: true
+  block-place: true
+  block-break: true
+  spawn-animals: true
+  spawn-monsters: true
+  difficulty: NORMAL
+  spawn-world:
+    x: 0
+    y: 0
+    z: 0
+    pitch: 0.0
+    yaw: 0.0
+    world: world_nether
+world_the_end:
+  type: NORMAL
+  environment: NORMAL
+  seed: -2114104543929838950
+  pvp: true
+  block-place: true
+  block-break: true
+  spawn-animals: true
+  spawn-monsters: true
+  difficulty: NORMAL
+  spawn-world:
+    x: 0
+    y: 0
+    z: 0
+    pitch: 0.0
+    yaw: 0.0
+    world: world_the_end

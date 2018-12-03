@@ -1,0 +1,27 @@
+Main:
+  Only Show Players Kits They Have Permission To Use: false
+  Allow Players To Receive Kits For Free If They Have Permission: true
+  Dont Preview Commands In Kits: false
+  Hologram Layout:
+  - '{TITLE}'
+  - '{LEFT-CLICK}'
+  - '{RIGHT-CLICK}'
+  Sounds Enabled: true
+  Sound Played While Clicking In Inventories: ENTITY_ENDERMAN_TELEPORT
+  Prevent The Redeeming of a Kit When Inventory Is Full: true
+  Display Chance In Preview: true
+  Currency Symbol: ¢
+Interfaces:
+  Exit Icon: RED_BANNER
+  Buy Icon: EMERALD
+  Glass Type 1: 7
+  Glass Type 2: 11
+  Glass Type 3: 3
+  Replace Glass Type 1 With Rainbow Glass: false
+  Do Not Use Glass Borders: false
+System:
+  Debugger Enabled: false
+data:
+  particlesettings:
+    ammount: 20
+    type: SPELL_WITCH

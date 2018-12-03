@@ -1,0 +1,64 @@
+#Enabled spawner pickup in worlds - Make sure you are using the EXACT world names!
+enabled_pickup_in_worlds:
+- world
+
+#Enabled spawner placement in worlds - Make sure you are using the EXACT world names!
+enabled_placement_in_worlds:
+- world
+
+#Should players be allowed to mine naturally occurring spawners? (e.g. dungeons, blaze towers)
+pickup_natural_spawners: true
+
+#Should spawner changing be allowed using mob eggs?
+spawner_changing: true
+
+#Should placed spawners be protected from other players?
+spawner_protection: false
+
+#Should players be able to place mobs (using mob eggs) on a spawner while crouching?
+crouch_mob_spawning: false
+
+#Should Spawners drop from explosions?
+explosion_drop: false
+
+#What is the chance out of 100, that a spawner will drop from an explosion? (eg: 100 = always, 50 = half the time, 0 = never)
+explosion_chance: 100
+
+#Should the GUI act as a spawner shop? (set no to disable all prices and vault dependency)
+gui_shop: true
+
+#Cost of purchasing spawners using the GUI Shop (/ps get) - NOTE: Set cost to -1 to disable spawner from showing up in shop
+bat_spawner_cost: 0
+blaze_spawner_cost: 0
+chicken_spawner_cost: 0
+cow_spawner_cost: 0
+creeper_spawner_cost: 0
+enderman_spawner_cost: 0
+endermite_spawner_cost: 0
+ghast_spawner_cost: 0
+guardian_spawner_cost: 0
+llama_spawner_cost: 0
+pig_spawner_cost: 0
+rabbit_spawner_cost: 0
+sheep_spawner_cost: 0
+silverfish_spawner_cost: 0
+skeleton_spawner_cost: 0
+spider_spawner_cost: 0
+squid_spawner_cost: 0
+slime_spawner_cost: 0
+villager_spawner_cost: 0
+witch_spawner_cost: 0
+wolf_spawner_cost: 0
+caveSpider_spawner_cost: 0
+zombie_spawner_cost: 0
+enderDragon_spawner_cost: 0
+giant_spawner_cost: 0
+snowman_spawner_cost: 0
+horse_spawner_cost: 0
+mooshroom_spawner_cost: 0
+ocelot_spawner_cost: 0
+pigman_spawner_cost: 0
+polarbear_spawner_cost: 0
+magmacube_spawner_cost: 0
+wither_spawner_cost: 0
+ironGolem_spawner_cost: 0

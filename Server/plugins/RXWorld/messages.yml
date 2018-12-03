@@ -1,0 +1,15 @@
+perfix: '&f[&aRX&3World&f] '
+error:
+ no-permission: '&cYou do not have enough permissions to use that command'
+ no-register: '&cThis world is not registered'
+ register: '&cThis world is registered'
+success:
+ reload: '&aThe files has reloaded'
+ create: '&aThe world is being created'
+ completed: '&aThe creation of the finished world'
+ tp: '&aYou have teleported to the world %name%'
+ import: '&aThe world has been imported'
+ delete: '&aThe world has been eliminated'
+ difficulty: '&aThe difficulty of the world has changed to %difficulty%'
+ setspawn: '&aNew spawn point of the world added'
+ spawn: '&aYou ve been teleported to the worlds spawn point'
